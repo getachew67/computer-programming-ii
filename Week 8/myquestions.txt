@@ -1,0 +1,41 @@
+Q:Is it an inanimate object?
+Q:Is it larger than a normal sedan?
+Q:Can humans live in/on it?
+A:house
+Q:Is it common to see everyday?
+A:Sun
+A:comet
+Q:Does it taste good?
+A:icecream
+A:computer
+Q:Is it a domesticated animal?
+Q:Does it roll in the mud?
+A:kitty
+Q:Does it walk on four legs?
+A:pig
+A:child
+Q:Does it have a relatively long neck?
+Q:Is it native to South America?
+A:alpaca
+A:camel
+Q:Does it belong to the felidae family?
+Q:Does it have stripes?
+A:tiger
+Q:Is it for some reason called the King of the Jungle when it lives in the Sahara?
+A:lion
+A:cheetah
+Q:Does it live in the water?
+Q:Can it be found in Finding Nemo?
+Q:Do they hold regular meetings?
+A:shark
+Q:Dooes it have a recognizable shape?
+A:starfish
+A:clownfish
+Q:Does it have tentacles?
+A:giant squid
+A:orca
+Q:Does it belong in Antarctica?
+A:penguin
+Q:Is it bigger than an adult human?
+A:arctic fox
+A:polar bear

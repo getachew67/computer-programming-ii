@@ -1,0 +1,8 @@
+notyoda::= adj pp aux | verb pp special
+pp::= I | you | they | he | she | we | it
+adj::= stupid | foolish | funny | evil | good | strong | weak | hungry | tired | cold
+verb::= seek advice | speak | run | eat this| go there | compute | fight | sleep | pass
+special::= must | shall | should | can | cannot | have | will | shall not
+aux::= am | is | are | was | were
+q::= do you? | ..yes | hmmm.. | how? | ..no..
+gibberish::= notyoda q | q notyoda q | q notyoda
