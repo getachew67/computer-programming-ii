@@ -1,2 +1,2 @@
-# Computer Programming II [CSE 142]
-#### Coursework for CSE 142
+# Computer Programming II [CSE 143]
+#### Coursework for CSE 143
